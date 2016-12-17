@@ -1,0 +1,6 @@
+D:\Google Drive\2017 projects\Simple VM\Simple VM\Simple VM\bin\Debug\Simple VM.exe.config
+D:\Google Drive\2017 projects\Simple VM\Simple VM\Simple VM\bin\Debug\Simple VM.exe
+D:\Google Drive\2017 projects\Simple VM\Simple VM\Simple VM\bin\Debug\Simple VM.pdb
+D:\Google Drive\2017 projects\Simple VM\Simple VM\Simple VM\obj\Debug\Simple VM.csprojResolveAssemblyReference.cache
+D:\Google Drive\2017 projects\Simple VM\Simple VM\Simple VM\obj\Debug\Simple VM.exe
+D:\Google Drive\2017 projects\Simple VM\Simple VM\Simple VM\obj\Debug\Simple VM.pdb
