@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple VM", "Simple VM\Simple VM.csproj", "{BFFCA856-1AD5-4B33-9924-E8C84F4B5E72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.cs", "Common.cs\Common.cs.csproj", "{865D5D04-E97D-49DE-832E-4485D119A964}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common.cs\Common.csproj", "{865D5D04-E97D-49DE-832E-4485D119A964}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
